@@ -3,7 +3,7 @@
     <hr>
     <h4 class="text-center">Metode SAW</h4>
     <center>
-    <small>Distributed By <a target="_blank" rel="noopener noreferrer">sashiro</a></small>
+    <small>Distributed By <a target="_blank" rel="noopener noreferrer">DSS</a></small>
     </center>
 </div>
 

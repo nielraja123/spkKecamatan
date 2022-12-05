@@ -88,8 +88,6 @@ class Page{
 
     }
 
-
-
     /**
      * menampilkan css yang sudah di set
      */
