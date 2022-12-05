@@ -185,7 +185,7 @@
                         ?>
                     </table>
                 </div>
-                <h2>Table 4 - Dijumlah sesuai dengan universitas dan di dapat hasil rangking</h2>
+                <h2>Table 4 - Dijumlah sesuai dengan Kecamatan dan di dapat hasil rangking</h2>
                 <div class="table-responsive">
                     <table class="table table-bordered table-hover">
                         <tr class="active">
@@ -230,8 +230,8 @@
                         ?>
                         <div class="alert alert-success" role="alert">
                             <h4><b>Kesimpulan : </b> Dari hasil perhitungan yang dilakukan menggunakan metode SAW
-                                universitas terbaik untuk di pilih adalah
-                                <?php echo $value->Universitas ?> dengan nilai <?php echo $value->Total ?>
+                                kecamatan prioritas untuk di pilih adalah
+                                <?php echo $value->Kecamatan ?> dengan nilai <?php echo $value->Total ?>
                             </h4>
                         </div>
                         <?php

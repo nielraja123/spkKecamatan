@@ -1,4 +1,4 @@
-RewriteBase /spkuniversitas/
+RewriteBase /spkkecamatan/
 
 Options +FollowSymLinks
 Options -Indexes
